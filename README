@@ -1,4 +1,4 @@
 Created server and client docker images
-Executed both cleint and server on M1 MAc on single host (ubuntu using Parallels VM)
+Executed both client and server on M1 MAc on single host (ubuntu using Parallels VM)
 Able to communicate between client and Server
 Only single client and server connection
